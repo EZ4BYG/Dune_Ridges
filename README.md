@@ -25,3 +25,5 @@ p.s. 预测部分结束后，可得到Prediction_Results文件夹，里面是所
 配置说明：
 1. .ipynb是jupyter notebook保存的python程序，可直接在网页中一步一步运行并得到结果（推荐）。若不习惯这种方法，也可使用同名的.py原程序；
 2. Tensorflow 2.0+, Anaconda 2020+
+
+数据下载地址：链接：https://pan.baidu.com/s/1tJZH-5yEdW340sPLEOw3rw
